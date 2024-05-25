@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center">felipeAguiarCode/prompts-receita-para-criar-um-ebook:main.
     <img width="100" src=".github/assets/banner.png">
 </p>
 
